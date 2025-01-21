@@ -1,4 +1,8 @@
 # Smoothie-GO
+
+> [!IMPORTANT]  
+> Moved to [smoothie-go/smoothie-go](https://github.com/smoothie-go/smoothie-go)
+
 Why? for the lols. (Rewrite, of a rewrite, of a rewrite, of a rewrite)
 
 The rewrites being, smoothie-go, smoothie-rs, smoothie, teres
